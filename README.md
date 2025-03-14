@@ -1,4 +1,4 @@
-<h2 align="left">PASIKA PONGSAWALUK</h2>
+<h2 align="center">PASIKA PONGSAWALUK</h2>
 
 ###
 
@@ -11,12 +11,4 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/c2/1d/2d/c21d2d93109199adce3f253af4e61aa7.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bbello2003/bbello2003/output/snake.svg" alt="Snake animation" />
-
-###
+<img align="center" src="https://i.pinimg.com/originals/c2/1d/2d/c21d2d93109199adce3f253af4e61aa7.gif"  />
