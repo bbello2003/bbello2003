@@ -11,4 +11,4 @@
 
 <br clear="both">
 
-<img align="center" src="https://i.pinimg.com/originals/c2/1d/2d/c21d2d93109199adce3f253af4e61aa7.gif"  />
+<img align="center" width="50%" style="display: block margin: auto" src="https://i.pinimg.com/originals/c2/1d/2d/c21d2d93109199adce3f253af4e61aa7.gif"  />
