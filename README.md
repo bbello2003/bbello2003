@@ -1,5 +1,4 @@
-<h2 align="center">HI👋, MY NAME IS </h2>
-<h2 align="center">PASIKA PONGSAWALUK</h2>
+<h2 align="center">HI👋, MY NAME IS<br>PASIKA PONGSAWALUK</h2>
 
 ###
 
